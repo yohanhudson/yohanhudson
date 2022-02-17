@@ -1,10 +1,10 @@
-## Olá! Eu sou o Yohan Hudson
+## Olá! Eu sou o Yohan Hudson <!-- um estudante de Analise e desenvolcimento de Sistemas(ADS) / Spetech High School! -->
 
-<div align="center">
+<div align="start"> 
   <a href="https://github.com/yohanhudson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yohanhudson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-  <img align="right" alt="Rafa-pic" height="300" style="border-radius:50px;" src="https://cdn.donmai.us/sample/67/0c/__surtr_and_surtr_arknights_drawn_by_lancefate__sample-670c390b9eff3267c4f03f581e161a47.jpg">
+  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://cdn.donmai.us/sample/67/0c/__surtr_and_surtr_arknights_drawn_by_lancefate__sample-670c390b9eff3267c4f03f581e161a47.jpg">
   </div>
   
   ##
