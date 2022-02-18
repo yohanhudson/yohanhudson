@@ -4,8 +4,13 @@
   <a href="https://github.com/yohanhudson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yohanhudson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-  <img align="right" alt="Rafa-pic" height="250" style="border-radius:50px;" src="https://cdn.donmai.us/sample/67/0c/__surtr_and_surtr_arknights_drawn_by_lancefate__sample-670c390b9eff3267c4f03f581e161a47.jpg">
+  <!--img align="right" alt="Yohan-pic" height="250" style="border-radius:50px;" src="https://cdn.donmai.us/sample/67/0c/__surtr_and_surtr_arknights_drawn_by_lancefate__sample-670c390b9eff3267c4f03f581e161a47.jpg"!-->
   </div>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Yohan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Yohan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Yohan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
   
   ##
   
