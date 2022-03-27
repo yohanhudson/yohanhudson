@@ -9,6 +9,7 @@
   <img align="center" alt="Yohan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Yohan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yohan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Yohan-MySQL" height="30" width="40" src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/>
 </div>
 
   ##
