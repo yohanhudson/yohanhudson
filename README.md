@@ -1,4 +1,4 @@
-## Olá! Eu sou o Yohan Hudson <!-- um estudante de Analise e desenvolcimento de Sistemas(ADS) / Spetech High School! -->
+## Oi! Eu sou o Yohan Hudson <!-- um estudante de Analise e desenvolcimento de Sistemas(ADS) / Spetech High School! -->
 
 <div align="start"> 
   <a href="https://github.com/yohanhudson">
